@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1467217238 source:c:\users\ahmed nafis fuad\desktop\dx_ball  game\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<conio.h>
+
+1463654255 c:\users\ahmed nafis fuad\desktop\dx_ball  game\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
